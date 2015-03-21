@@ -15,5 +15,5 @@ def get_lyrics(song_name, artist):
         lyrics = lyrics[:st] + lyrics[end:]
     return lyrics
     
-print get_lyrics("Demons", "Imagine Dragons")
+#print get_lyrics("Demons", "Imagine Dragons")
 
